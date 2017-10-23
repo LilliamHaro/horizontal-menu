@@ -7,4 +7,4 @@
 	- HTML5
 	- CSS3
 4. Resultado Final:
- ![Recursos](assets/images/horizontal-menu.png)
+ - ![Recursos](assets/images/horizontal-menu.png)
